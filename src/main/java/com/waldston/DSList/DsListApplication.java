@@ -1,4 +1,4 @@
-package com.waldston.DSList;
+package com.waldston.dslist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
